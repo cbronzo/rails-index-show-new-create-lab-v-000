@@ -13,6 +13,7 @@ class CouponsController < ApplicationController
   end
   
   def create
+    @coupon
   end
   
 end
